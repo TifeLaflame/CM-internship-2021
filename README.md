@@ -23,7 +23,7 @@ I believe this is something my business idea can exploit.
 1. Brand Design
 1. UI Design
 
-[Link for sample presentation](https://www.canva.com/design/DAEFT4Agpt0/btATI2ZPvYXvy2-XVErxtQ/edit)
+[Link for sample presentation](https://www.canva.com/design/DAEFT4Agpt0/TFk9s9MkMBr1obAV4WNHXA/view?utm_content=DAEFT4Agpt0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 ### Mobile news feed 
 This is a mobile news feed view of a hypothetical social network built with HTML5, SCSS & JavaScript OOP.
 
