@@ -57,7 +57,7 @@ With the time and resources to learn and build anything, I will love to spend my
 
 The BMW BYO project is an example of a real life client project I will like to work on during this internship. 
 
-I want to focus my efforts on learning and developing unique digital experiences for brands. Also, I will like to learn about industry coding practices. Finally, it will be great if I'm paired up with a mentor in both the design and technology department.
+I want to focus my efforts on learning and developing unique digital experiences for brands. Also, I will like to go through the entire process of taking a client's project from research to development stage.  Finally, it will be great if I'm paired up with a mentor in both the design and technology department.
 
 CM has worked with the world's best brands, it will be a privilege to collaborate and work with professionals that have been involved with these projects.
 
