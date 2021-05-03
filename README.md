@@ -1,8 +1,14 @@
 # CM Internship 2021
 
 ## Project Examples 
-Most of these project examples are side projects I worked on recently.
+Most of these project examples are personal projects I worked on recently.
 ### Movie app nominations
+This is a movie application built using React, Styled Components &  OMDB API. With this application, a user can search for movies by their titles and pick 5 movies for nominations.
+
+[Live link](https://tifelaflame.github.io/the-shoppies-movie-awards/)
+#### Role 
+1. UI Design
+1. Development
 
 ### Yamigo 
 Yamigo is an app idea I recently came up with.  Yamigo pairs you up with potential friends in a particular city based on your personality and your interests. This can be achieved by asking the user specific psychological questions or doing a quick personality test for the user. 
@@ -19,6 +25,12 @@ I believe this is something my business idea can exploit.
 
 [Link for sample presentation](https://www.canva.com/design/DAEFT4Agpt0/btATI2ZPvYXvy2-XVErxtQ/edit)
 ### Mobile news feed 
+This is a mobile news feed view of a hypothetical social network built with HTML5, SCSS & JavaScript(OOP).
+![Sign-In Page](./assets/signinpage.png)
+![Home Page](./assets/homepage.png)
+#### Role 
+1. UI Design - Adobe XD
+1. Web development
 
 ## Inspiration
 
@@ -29,7 +41,6 @@ I was inspired  by this project because it was a platform that allowed users to 
 
 This project intrigued me, as someone that enjoys creating playlists, friends always ask me to share my playlists with them. Most of my friends use either Apple Music, Deezer or Youtube Music, as a Spotify die hard fan, sharing playlists I made for them was challenging. I've always imagined building a platform that allows me upload a Spotify playlist link and export an Apple, Tidal or Youtube Music playlist link I can share with friends. 
 
-Kord app showed me
 ### NFTs 
  A non-fungible token is a digital record that is on the blockchain ledger. NFT confirms ownership of a certain digital object. With NFT technology, developers will be able to get rid of the problem of safeguarding ownership of digital items. 
 
@@ -37,7 +48,11 @@ Kord app showed me
 
  I was inspired by this technology because it gives digital creators the autonomy of presenting their work on their own.
 
-### 
+### VSCode Stories Extension
+This extension lets you share code snippers with other developers. I found this inspiring because it was a thought that a developer recently had and decided to build. I'm always intrigued by how an idea can be coded into reality even when there are obstacles. This extension was sold a month later. It was built with TypeScript, PostgreSQL & NPM packages. 
+
 ## Focus during internship
+With the time and resources to learn and build anything, I will 
 
 ## Code challenge solution
+[Link for solution](https://codesandbox.io/s/2021-internship-exercise-menu-forked-k0m87?file=/src/index.js)
