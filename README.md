@@ -3,7 +3,7 @@
 ## Project Examples 
 Most of these project examples are personal projects I worked on recently.
 ### Movie app nominations
-This is a movie application built using React, Styled Components &  OMDB API. With this application, a user can search for movies by their titles and pick 5 movies for nominations.
+This is a movie application built using React, Styled Components &  OMDB API. With this application, a user can search for movies by their titles and pick 5 movies for nomination.
 
 [Live link](https://tifelaflame.github.io/the-shoppies-movie-awards/)
 #### Role 
@@ -25,7 +25,8 @@ I believe this is something my business idea can exploit.
 
 [Link for sample presentation](https://www.canva.com/design/DAEFT4Agpt0/btATI2ZPvYXvy2-XVErxtQ/edit)
 ### Mobile news feed 
-This is a mobile news feed view of a hypothetical social network built with HTML5, SCSS & JavaScript(OOP).
+This is a mobile news feed view of a hypothetical social network built with HTML5, SCSS & JavaScript OOP.
+
 ![Sign-In Page](./assets/signinpage.png)
 ![Home Page](./assets/homepage.png)
 #### Role 
@@ -52,7 +53,13 @@ This project intrigued me, as someone that enjoys creating playlists, friends al
 This extension lets you share code snippers with other developers. I found this inspiring because it was a thought that a developer recently had and decided to build. I'm always intrigued by how an idea can be coded into reality even when there are obstacles. This extension was sold a month later. It was built with TypeScript, PostgreSQL & NPM packages. 
 
 ## Focus during internship
-With the time and resources to learn and build anything, I will 
+With the time and resources to learn and build anything, I will love to spend my time in the experience design and technology departments.
+
+The BMW BYO project is an example of a real life client project I will like to work on during this internship. 
+
+I want to focus my efforts on learning and developing unique digital experiences for brands. Also, I will like to learn about industry coding practices. Finally, it will be great if I'm paired up with a mentor in both the design and technology department.
+
+CM has worked with the world's best brands, it will be a privilege to collaborate and work with professionals that have been involved with these projects.
 
 ## Code challenge solution
 [Link for solution](https://codesandbox.io/s/2021-internship-exercise-menu-forked-k0m87?file=/src/index.js)
