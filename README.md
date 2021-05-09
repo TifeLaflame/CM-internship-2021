@@ -50,7 +50,7 @@ This project intrigued me, as someone that enjoys creating playlists, friends al
  I was inspired by this technology because it gives digital creators the autonomy of presenting their work on their own.
 
 ### VSCode Stories Extension
-This extension lets you share code snippers with other developers. I found this inspiring because it was a thought that a developer recently had and decided to build. I'm always intrigued by how an idea can be coded into reality even when there are obstacles. This extension was sold a month later. It was built with TypeScript, PostgreSQL & NPM packages. 
+This extension lets you share code snippets with other developers. I found this inspiring because it was a thought that a developer recently had and decided to build. I'm always intrigued by how an idea can be coded into reality even when there are obstacles. This extension was sold a month later. It was built with TypeScript, PostgreSQL & NPM packages. 
 
 ## Focus during internship
 With the time and resources to learn and build anything, I will love to spend my time in the experience design and technology departments.
